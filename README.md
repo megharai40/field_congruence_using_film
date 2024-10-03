@@ -8,11 +8,13 @@ A macro program written for Image J to analyze radiation field congruence in rad
 4. Open ImageJ.
 5. Open an image in ImageJ.
 6. Click on >> symbol at the end of the toolbar
+   ![1](1.png)
    
 8. Click on 'FieldCongruence'.
+    ![2](2.png)
    
 10. An icon with 'F' should appear on the toolbar
-
+    ![3](3.png)
 
 That's it! 
 
