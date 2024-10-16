@@ -22,7 +22,7 @@ newArray("Enter Scale Measurement","-","X Profile", "Y Profile","-","Select Opti
 	}
 	if(cmd == "Select Optical Field Points"){
 		setTool("multipoint");
-		waitForUser("Select X1, Y2, X2,Y2 points (in that order) and click OK to continue");
+		waitForUser("Select X1, Y2, X2,Y1 points (in that order) and click OK to continue");
 		getSelectionCoordinates(x,y);
 		
 		//Draw Crosshair
